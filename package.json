@@ -3,6 +3,10 @@
   "version": "0.1.4",
   "license": "MIT",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manspaniel/mimic-bot.git"
+  },
   "bin": {
     "mimic": "./cli.js"
   },
