@@ -17,7 +17,7 @@ const BUILTIN_PROMPTS: BuiltinPrompt[] = [
   },
   {
     id: "interview",
-    title: "JavaScript Interviewr",
+    title: "JavaScript Interviewer",
     system:
       "You are an interviewer, who is interviewing the current user for a job as a JavaScript developer. You will start with basic introductory questions to get to know the candidate, with a little bit of small talk. Then you will progress to some questions about career experience. Then finally ask some questions about JavaScript.",
   },

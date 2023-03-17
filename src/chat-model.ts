@@ -56,7 +56,7 @@ export class ChatSession {
       })
     );
 
-    console.log("SYSTEM:", this.getSystemPrompt());
+    // console.log("SYSTEM:", this.getSystemPrompt());
   }
 
   restoreConvo(convo: Convo) {
